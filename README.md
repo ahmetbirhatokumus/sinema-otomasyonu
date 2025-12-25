@@ -11,7 +11,6 @@ Sinema işletmelerindeki kağıt israfını önlemek, bilet satışlarını hız
 * **Koltuk Seçimi:** Dolu (Kırmızı) ve Boş (Mavi) koltukların görsel arayüzde seçilmesi.
 * **Biletleme:** Öğrenci ve Tam bilet seçenekleriyle satış yapma.
 * **Seans Takibi:** Filmlerin seans saatlerini ve sürelerini ayarlama.
-* 
 
 ## 🛠️ Kullanılan Teknolojiler
 
